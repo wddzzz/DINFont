@@ -1,240 +1,240 @@
 @font-face {
   font-family: "DIN-Black",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-Black.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-Black.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-BlackAlternate",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BlackAlternate.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BlackAlternate.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-BlackItalic",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BlackItalic.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BlackItalic.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-BlackItalicAlt",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BlackItalicAlt.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BlackItalicAlt.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-BlackItalicExp",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BlackItalicExp.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BlackItalicExp.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-Bold",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-Bold.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-Bold.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-BoldAlternate",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BoldAlternate.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BoldAlternate.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-BoldItalic",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BoldItalic.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BoldItalic.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-BoldItalicAlt",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BoldItalicAlt.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BoldItalicAlt.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-BoldItalicExp",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BoldItalicExp.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-BoldItalicExp.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-Euro",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-Euro.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-Euro.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-Light",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-Light.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-Light.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-LightAlternate",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-LightAlternate.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-LightAlternate.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-LightItalic",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-LightItalic.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-LightItalic.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-LightItalicAlt",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-LightItalicAlt.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-LightItalicAlt.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-LightItalicExp",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-LightItalicExp.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-LightItalicExp.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-Medium",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-Medium.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-Medium.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-MediumAlternate",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-MediumAlternate.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-MediumAlternate.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-MediumItalic",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-MediumItalic.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-MediumItalic.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-MediumItalicAlt",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-MediumItalicAlt.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-MediumItalicAlt.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-MediumItalicExp",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-MediumItalicExp.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-MediumItalicExp.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-Regular",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-Regular.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-Regular.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-RegularAlternate",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-RegularAlternate.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-RegularAlternate.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-RegularItalic",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-RegularItalic.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-RegularItalic.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-RegularItalicAlt",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-RegularItalicAlt.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-RegularItalicAlt.otf") format('opentype');
 }
 @font-face {
   font-family: "DIN-RegularItalicExp",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-RegularItalicExp.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DIN-RegularItalicExp.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-Black",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-Black.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-Black.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-BlackAlternate",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-BlackAlternate.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-BlackAlternate.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-BlackExpert",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-BlackExpert.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-BlackExpert.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-Bold",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-Bold.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-Bold.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-BoldAlternate",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-BoldAlternate.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-BoldAlternate.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-BoldExpert",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-BoldExpert.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-BoldExpert.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-Light",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-Light.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-Light.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-LightAlternate",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-LightAlternate.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-LightAlternate.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-LightExpert",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-LightExpert.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-LightExpert.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-Medium",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-Medium.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-Medium.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-MediumAlternate",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-MediumAlternate.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-MediumAlternate.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-MediumExpert",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-MediumExpert.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-MediumExpert.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-Regular",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-Regular.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-Regular.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-RegularAlternate",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-RegularAlternate.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-RegularAlternate.otf") format('opentype');
 }
 @font-face {
   font-family: "DINCond-RegularExpert",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-RegularExpert.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINCond-RegularExpert.otf") format('opentype');
 }
 @font-face {
   font-family: "DINEngschrift-Alternate",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINEngschrift-Alternate.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINEngschrift-Alternate.otf") format('opentype');
 }
 @font-face {
-  font-family: "DINEngschrift",
+  font-family: "DINEngschrift.otf",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINEngschrift.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINEngschrift.otf.otf") format('opentype');
 }
 @font-face {
   font-family: "DINPro-Black",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINPro-Black.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINPro-Black.otf") format('opentype');
 }
 @font-face {
   font-family: "DINPro-Bold",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINPro-Bold.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINPro-Bold.otf") format('opentype');
 }
 @font-face {
   font-family: "DINPro-Light",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINPro-Light.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINPro-Light.otf") format('opentype');
 }
 @font-face {
   font-family: "DINPro-Medium",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINPro-Medium.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINPro-Medium.otf") format('opentype');
 }
 @font-face {
   font-family: "DINPro-Regular",
   font-display: swap;
-  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINPro-Regular.otf");
+  src: url("//cdn.jsdelivr.net/gh/wddzzz/DINFont@main/DINPro-Regular.otf") format('opentype');
 }
